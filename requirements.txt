@@ -2,3 +2,5 @@ matplotlib==3.5.3
 scikit_learn==1.2.1
 streamlit==1.18.1
 scanpy==1.9.1
+leidenalg==0.9.1
+louvain==0.8.0
